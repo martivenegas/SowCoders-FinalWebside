@@ -1,0 +1,28 @@
+html{
+  align-items: center  
+}
+
+
+  body {
+  background-color: #dff0a3;
+  height: 100%;
+  width: 100%;
+  
+}
+
+h1 {
+color: #73bbc9;
+font-size: 60px;
+font-weigh: 900;
+text-align: center;
+}
+
+img {
+  width: 20%;
+  height: 20%;
+ 
+}
+
+.nombre{
+  text-align: center;
+}
